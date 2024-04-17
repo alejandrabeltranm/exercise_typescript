@@ -5,7 +5,7 @@ import { calculateSalary } from "./src/salary/calculator";
 
 const employee: Employee = {
     id:13,
-    nombre:'Ale',
+    name:'Ale',
     baseSalary: 50000,
     department: Department.IT,
 };

@@ -2,7 +2,7 @@ import { Department } from "../salary/department";
 
 export interface Employee {
     id:number;
-    nombre:string;
+    name:string;
     baseSalary: number;
     department: Department;
 }
